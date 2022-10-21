@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+/*視窗背景色設定*/
+body{
+    background-color: #f8f4a7;
+    background-image:url(/imm/cat.jpg);
+    background-repeat:repeat-x;
+    }
+
+
+/*連結顏色設定*/
+
+
+/*頁首,導覽,頁尾的共通設定*/
+header,nav,footer
+    {
+        text-align: center;
+    }
+
+
+/*導覽樣式設定*/
+
+
+/*頁面標題設定*/
+h1
+    {
+        width: 300px; ;
+        margin: 40px auto; 
+        padding:30px 50px 30pt 50pt;
+        border: 5px solid #2084e3;
+        color:rgb(40, 108, 245);
+        background-color: #eaecea;
+        font-size: 150%;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        line-height: 1;
+    }
+
+/*次標題設定*/
+
+
+/*小標題設定*/
+
+
+/*內容區塊邊框設定*/
+
+
+/*「更多介紹」連結設定*/
+
+
+/*連結圖示設定*/
+
+
+/*區塊間分隔*/
+
+
+/*文繞圖設定*/
+
+
+/*圓形圖片設定*/
+.id
+    {
+    text-align: center;
+    }
+
+form
+    {
+        text-align: center;
+    }
+main
+    {
+        text-align: center;
+    }
